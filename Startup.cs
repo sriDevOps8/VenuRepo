@@ -13,6 +13,7 @@ namespace SecondAspwebProject
 {
     public class Startup
     {
+        //comment updated for git
         public Startup(IConfiguration configuration)
         {
             Configuration = configuration;
