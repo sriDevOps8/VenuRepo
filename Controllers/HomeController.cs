@@ -23,7 +23,7 @@ namespace SecondAspwebProject.Controllers
             return View();
         }
 
-        public IActionResult Privacy()
+        public IActionResult Privacy1()
         {
             return View();
         }
